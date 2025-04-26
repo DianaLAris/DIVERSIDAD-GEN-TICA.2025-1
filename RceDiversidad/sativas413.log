@@ -1,0 +1,33 @@
+PLINK v2.00a5.14 64-bit (20 Aug 2024)
+Options in effect:
+  --export vcf
+  --map RiceDiversity_44K_Genotypes_PLINK/sativas413.map
+  --out RiceDiversity_44K_Genotypes_PLINK/sativas413
+  --ped RiceDiversity_44K_Genotypes_PLINK/sativas413.ped
+
+Hostname: FLOZANO
+Working directory: G:\My Drive\moodle\code
+Start time: Sat Sep 14 12:13:07 2024
+
+Random number seed: 1726333987
+16262 MiB RAM detected; reserving 8131 MiB for main workspace.
+Using up to 8 compute threads.
+--pedmap: 36901 variants in .map file.
+--pedmap: 413 samples present, genotypes extracted to
+RiceDiversity_44K_Genotypes_PLINK/sativas413-temporary.bed.smaj .
+Transposing sample-major .bed to
+RiceDiversity_44K_Genotypes_PLINK/sativas413-temporary.pgen , and setting major
+alleles to provisional-REF.
+Transpose complete.
+--pedmap: RiceDiversity_44K_Genotypes_PLINK/sativas413-temporary.pgen +
+RiceDiversity_44K_Genotypes_PLINK/sativas413-temporary.pvar +
+RiceDiversity_44K_Genotypes_PLINK/sativas413-temporary.psam written. .bed.smaj
+and .fam.tmp temporary files deleted.
+413 samples (0 females, 0 males, 413 ambiguous; 413 founders) loaded from
+RiceDiversity_44K_Genotypes_PLINK/sativas413-temporary.psam.
+36901 variants loaded from
+RiceDiversity_44K_Genotypes_PLINK/sativas413-temporary.pvar.
+Note: No phenotype data present.
+--export vcf to RiceDiversity_44K_Genotypes_PLINK/sativas413.vcf ... done.
+
+End time: Sat Sep 14 12:13:09 2024
