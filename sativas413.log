@@ -1,0 +1,17 @@
+PLINK v2.0.0-a.6.12 64-bit (20 Apr 2025)
+Options in effect:
+  --export vcf
+  --map sativas413.map
+  --out sativas413
+  --ped sativas413.ped
+
+Hostname: DESKTOP-LR9BNGN
+Working directory: D:\GIT_DIANA VARGAS\DIVERSIDAD-GENÉTICA.2025-1
+Start time: Sat Apr 26 10:17:44 2025
+
+Random number seed: 1745680664
+7987 MiB RAM detected; reserving 3993 MiB for main workspace.
+Using up to 8 compute threads.
+Error: Failed to open sativas413.map : No such file or directory.
+
+End time: Sat Apr 26 10:17:44 2025
